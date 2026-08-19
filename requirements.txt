@@ -1,0 +1,13 @@
+torch
+torchvision
+open_clip_torch
+opencv-python
+moviepy
+faiss-cpu
+fastapi
+uvicorn
+python-multipart
+numpy
+tqdm
+pydantic
+Pillow
