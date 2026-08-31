@@ -1,0 +1,12 @@
+# Ignore all contents inside data subfolders
+data/flagged_frames/*
+!data/flagged_frames/.gitkeep
+
+data/clips_extracted/*
+!data/clips_extracted/.gitkeep
+
+data/raw_videos/*
+!data/raw_videos/.gitkeep
+
+data/index/*
+!data/index/.gitkeep
